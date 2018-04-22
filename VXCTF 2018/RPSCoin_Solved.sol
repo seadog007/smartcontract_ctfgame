@@ -86,3 +86,5 @@ contract RPSCoinAttacker {
         return uint256(keccak256(_nonce, block.blockhash(block.number-1)));
     }
 }
+
+//Call RPSCoinAttacker.attack("Contract Address")

