@@ -41,7 +41,7 @@ contract NoMoneyNoCoin is ERC20Basic {
 contract NoMoneyNoCoinAttacker {
   function transfer(address _target) payable public returns (bool){
     _target.send(thisbal());
-    selfdestruct(_targe);
+    selfdestruct(_target);
     return true;
   }
   
