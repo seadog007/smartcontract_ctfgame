@@ -20,6 +20,28 @@ The CTF questions about smart contracts
 #### Codefest'18
 - [Spiritual Box](https://github.com/seadog007/smartcontract_ctfgame/blob/master/Codefest%2018%20CTF/SpiritualBox/SpiritualBox_Solved.sol)
 
+
+# Solutions By Class
+#### Overflow/Underflow
+- [MultipleCoin](https://github.com/seadog007/smartcontract_ctfgame/blob/master/VXCTF%202018/MultipleCoin_Solve.sol)
+
+#### Forcing Ether into Contract
+- [NoMoneyNoCoin](https://github.com/seadog007/smartcontract_ctfgame/blob/master/VXCTF%202018/NoMoneyNoCoin_Solved.sol)
+- [Force](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Force/Force_Solved.sol)
+- [Spiritual Box](https://github.com/seadog007/smartcontract_ctfgame/blob/master/Codefest%2018%20CTF/SpiritualBox/SpiritualBox_Solved.sol)
+
+#### Fake Random
+- [CoinFlip](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/CoinFlip/CoinFlip_Solved.sol)
+- [RPSCoin](https://github.com/seadog007/smartcontract_ctfgame/blob/master/VXCTF%202018/RPSCoin_Solved.sol)
+
+#### Unclassified (yet)
+- [SanityCoin](https://github.com/seadog007/smartcontract_ctfgame/blob/master/VXCTF%202018/SanityCoin_Solved.sol)
+- DeflationCoin (Not solved)
+- [Fallback](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Fallback/Fallback_Solved.sol)
+- [Telephone](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Telephone/Telephone_Solved.sol)
+- [King](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/King/King_Solved.sol)
+- [Elevator](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Elevator/Elevator_Solved.sol)
+
 # Useful Resource
 - [A survey of attacks on Ethereum smart contracts](https://eprint.iacr.org/2016/1007.pdf)
 - [Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/)
