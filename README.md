@@ -13,6 +13,9 @@ The CTF questions about smart contracts
 - [CoinFlip](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/CoinFlip/CoinFlip_Solved.sol)
 - [Fallback](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Fallback/Fallback_Solved.sol)
 - [Telephone](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Telephone/Telephone_Solved.sol)
+- [Force](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Force/Force_Solved.sol)
+- [King](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/King/King_Solved.sol)
+- [Elevator](https://github.com/seadog007/smartcontract_ctfgame/blob/master/ethernaut.zeppelin.solutions/Elevator/Elevator_Solved.sol)
 
 #### Codefest'18
 - [Spiritual Box](https://github.com/seadog007/smartcontract_ctfgame/blob/master/Codefest%2018%20CTF/SpiritualBox/SpiritualBox_Solved.sol)
